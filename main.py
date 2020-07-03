@@ -3,8 +3,8 @@ import ptbot
 import os
 from pytimeparse import parse
 
-TOKEN="1386994773:AAF7oMm-xO4rMsKaNj3NCEUFM8DtODSMlTM"
-CHAT_ID="173637383"
+TOKEN=os.getenv("TOKEN")
+CHAT_ID=os.getenv("CHAT_ID")
 is_first_iteration = True
 time = 0
 
