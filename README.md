@@ -8,7 +8,7 @@
 
 ### Пример диалога с ботом
 
-![](https://sun1-26.userapi.com/k07VWK1yUf4dUnRbquMWQPYHP26mbeBHqGkIuA/6aMaJTWpVOg.jpg)
+![](timer_ex.gif)
 
 ### Цель проекта
 
